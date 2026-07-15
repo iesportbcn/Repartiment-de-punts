@@ -12,7 +12,7 @@
 
 // Posa aquí l'ID del full de càlcul per usar-ne un de diferent al que conté l'script.
 // Deixa-ho buit ('') per usar sempre el full actiu (comportament per defecte).
-const SHEET_ID = '';
+const SHEET_ID = '1oSJrJKk0LGFf3ou7Z8Lgd-mgg-8FuCCFZij3SljFlqI';
 
 const HEADERS = {
   Users:        ['id','name','email','pass','role','classe'],
